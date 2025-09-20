@@ -1,0 +1,1 @@
+This project is a machine learning-based spam classifier that categorizes messages as either "spam" or "not spam" (ham). The model is trained on a dataset of SMS messages and emails, using natural language processing (NLP) techniques for text preprocessing and a Naive Bayes algorithm for classification
